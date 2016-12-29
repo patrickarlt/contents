@@ -15,8 +15,6 @@ var _sister = require('sister');
 
 var _sister2 = _interopRequireDefault(_sister);
 
-require('babel/polyfill');
-
 var Contents = undefined;
 
 /**
